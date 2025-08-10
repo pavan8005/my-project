@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(102, 0, 255);
+    border: 2px solid rgb(255, 42, 0);
+     border-radius: 10px;
+     padding: 10px;
+     margin: 10px;
+     color: rgb(177, 191, 191);
+}
