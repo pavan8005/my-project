@@ -1,0 +1,9 @@
+1.I created a text box where the user can type anything.
+2.Just below it, a paragraph shows the number of characters typed.
+3.The JavaScript listens to the input — this means it reacts whenever the user types, deletes, or pastes text.
+4.The code then counts the letters and instantly updates the number on the screen.
+
+Learning outcomes:-
+-> I learned how to create a text box where people can type.
+-> I learned how to display the number of characters typed on the webpage.
+-> I learned how to use JavaScript to continuously watch what the user types and update the count in real-time.
